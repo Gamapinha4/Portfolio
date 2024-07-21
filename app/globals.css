@@ -80,16 +80,21 @@
   body {
     @apply bg-background text-foreground;
   }
-}
-
-@keyframes gradientBG {
-  0% {
-    background-position: 0% 50%;
+  body::-webkit-scrollbar {
+    width: 6px;
   }
-  50% {
-    background-position: 100% 50%;
+  
+  body::-webkit-scrollbar-track {
+    background: var('--secundary-color');
+    border-radius: 10px;
   }
-  100% {
-    background-position: 0% 50%;
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 10px;
+  }
+  
+  body::-webkit-scrollbar-thumb:hover {
+    background: #555;
   }
 }
