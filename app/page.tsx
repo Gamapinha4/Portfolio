@@ -170,7 +170,7 @@ export default function Home() {
             <div className="flex flex-col items-start space-y-4">
               <div className="inline-block rounded-lg bg-muted px-3 py-1 text-sm">Sobre mim</div>
               <p className="text-muted-foreground md:text-xl">
-              Olá! Eu sou Gabriel Palmieri, um desenvolvedor FullStack dedicado a criar soluções inovadoras e escaláveis. Tenho experiência com diversas tecnologias, como React, Node.js, e bancos de dados como Supabase e Firebase. Estou sempre em busca de novos desafios para aprimorar minhas habilidades. Abaixo, você pode conhecer alguns dos meus projetos e competências. Fique à vontade para entrar em contato comigo!
+              Olá! Meu nome é Gabriel Palmieri, um desenvolvedor FullStack dedicado a criar soluções inovadoras e escaláveis. Tenho experiência com diversas tecnologias, como React, Node.js, e bancos de dados como Supabase e Firebase. Estou sempre em busca de novos desafios para aprimorar minhas habilidades. Abaixo, você pode conhecer alguns dos meus projetos e competências. Fique à vontade para entrar em contato comigo!
               </p>
               <a
                 href="/GABRIEL PALMIERI CURRICULO.pdf"
